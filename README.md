@@ -18,7 +18,7 @@ This repository contains a C++ program that demonstrates the use of structures, 
 - **Course**: Objected Oriented Programming
 - **Semester**: 2
 - **Program**: [UNIWA](https://www.uniwa.gr/)
-- **Department**: [Information and Computer Engineering](https://ice.uniwa.gr/)
+- **Department**: [Informatics and Computer Engineering](https://ice.uniwa.gr/)
 - **Instructor**: [Georgios Meletiou](https://ice.uniwa.gr/emd_person/17562/)
 
 ## Student Information
